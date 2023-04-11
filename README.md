@@ -119,10 +119,12 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author 1  Nabeel**
-- GitHub: [@Metaverse-Nabeel](https://github.com/Metaverse-Nabeel)
-- Twitter: [@Nabeel129](https://twitter.com/Nabeel129)
-- LinkedIn: [@Nabeel129](https://linkedin.com/in/Nabeel129)
+👤 **Atif Zada**
+
+- GitHub: [@atifzada](https://github.com/Atifzada)
+- Twitter: [@atifzada](https://twitter.com/atifzada04)
+- LinkedIn: [@atifzada](https://www.linkedin.com/in/atif-zada-585693180/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
