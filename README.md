@@ -6,6 +6,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -18,23 +19,41 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Todo List] <a name="about-project"></a>
-This is todo list list projects where you can add todos and remove todos and see them in a list.
+# 📖 Leaderboard <a name="about-project"></a>
+
+**Leaderboard** The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external Leaderboard API service.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+<details>
+  <summary>HTML</summary>
+  <ul>
+    <li><a href="#">HTML</a></li>
+  </ul>
+</details>
+<details>
+  <summary>CSS</summary>
+  <ul>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
 
 <details>
-  <summary>Client</summary>
+  <summary>Java Script</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML, CSS and JS</a></li>
+    <li><a href="#">JS</a></li>
+  </ul>
+</details>
+<details>
+<summary>Github</summary>
+  <ul>
+    <li><a href="#">Github</a></li>
   </ul>
 </details>
 
@@ -42,14 +61,15 @@ This is todo list list projects where you can add todos and remove todos and see
 
 ### Key Features <a name="key-features"></a>
 
-- **[clean ui]**
-- **[good design]**
-- **[good graphics]**
+- **[Basic page structure]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- Live Demo: [Leaderboard Project]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -57,82 +77,45 @@ This is todo list list projects where you can add todos and remove todos and see
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-```sh
-  npm intall -g live-server
-  live-server
-```
-
 ### Setup
 
 Clone this repository to your desired folder:
 
-
-commands:
-
-```sh
-  cd my-folder
-  git clone https://github.com/Atifzada/Todo-List/
-```
--
+cd my-folder
+git clone https://github.com/Metaverse-Nabeel/Leaderboard.git
 
 ### Install
 
 Install this project with:
 
+1.  Install WebHint: npm install --save-dev hint@7.x
 
-command:
+2.  Install StyleLint npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
 
-```sh
-  cd my-project
-  npm install
-```
-
+3.  npm install --save-dev eslint@7.x eslint-config-airbnb-base@14.x eslint-plugin-import@2.x babel-eslint@10.x
 
 ### Usage
 
-To run the project, execute the following command:
-
-
-command:
-
-```sh
-  npm run dev
-```
-
+To run the project, Open index.html in browser.
 
 ### Run tests
 
 To run tests, run the following command:
 
 
-```sh
-  npx hint .
-  npx eslint .
-  npx stylelint "**/*.{css,scss}"
-```
-
-
 ### Deployment
 
-You can deploy this project by just pushing it and github pages will do the rest:
-```sh
-  git checkout main
-  git push
-```
+- Deployed at GitHub Pages: [Leaderboard0 Project]()
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-### Deployment
-
-- Deployed at GitHub Pages: [ToDo List Project](https://atifzada.github.io/Todo-List/dist/)
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -142,16 +125,14 @@ You can deploy this project by just pushing it and github pages will do the rest
 - Twitter: [@atifzada](https://twitter.com/atifzada04)
 - LinkedIn: [@atifzada](https://www.linkedin.com/in/atif-zada-585693180/)
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- [ ] **[clean ui design]**
-- [ ] **[minimalistic design]**
-- [ ] **[supre easy to read]**
+- **Making UI more interactive**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,7 +142,7 @@ You can deploy this project by just pushing it and github pages will do the rest
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Atifzada/Todo-List/issues).
+Feel free to check the [issues page](https://github.com/Atifzada/Leader_Board/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,8 +150,7 @@ Feel free to check the [issues page](https://github.com/Atifzada/Todo-List/issue
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-If you like this project please give a star. 
+If you like this project you can follow me and give the project a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,23 +158,7 @@ If you like this project please give a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-
-I would like to thank all the people that contributed in this project .
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-
-
-- **[how can i run it?]**
-
-  - [local server]
-
-
+**Microverse**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,6 +166,6 @@ I would like to thank all the people that contributed in this project .
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed
+This project is [MIT](./LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
