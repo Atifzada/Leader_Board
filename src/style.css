@@ -44,7 +44,7 @@ body {
 
 .refreshbtn {
   width: 25%;
-  box-shadow: -2px 4px;
+  box-shadow: 3px 4px;
 }
 
 ul li {
@@ -76,7 +76,7 @@ ul li {
 
 .submitBtn {
   width: 25%;
-  box-shadow: -2px 4px;
+  box-shadow: 3px 4px;
   display: flex;
   align-self: flex-end;
   padding: 5px 10px;
