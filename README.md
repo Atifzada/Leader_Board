@@ -69,7 +69,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Live Demo: [Leaderboard Project]()
+- Live Demo: coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,7 +130,12 @@ To run tests, run the following command:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
+### Key Features <a name="key-features"></a>
+
+- **[Basic page structure]**
+- **[Get Game Unique ID from API]**
+- **[Send Score to API]**
+- **[Receive Scores List From API]**
 
 - **Making UI more interactive**
 
